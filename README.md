@@ -1,4 +1,5 @@
 # Anigame Sniper
+## This gen no longer works , use the [second gen](https://github.com/Sebastian09-09/Anigame-Sniper-Gen-2)
 
 Anigame Sniper , as its name suggests , is a sniper(autoclaimer) for Anigame and Izzi discord bot!
 
